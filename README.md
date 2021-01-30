@@ -1,15 +1,14 @@
-# Hello-World
-My very first practical repository!!!
-Yelloooww!!
-I am Ndede Agnes
-I am 21
-I love God
-I am a woman
-Am a mother also
-And a minister
-I love coding
-I enjoy watching detective movies and animal documentaries
-I would like to be a musician, coder and animal conserver in future
-I also enjoy doing charity works so i would like to join the KRCS, Rotary club and Y's youth
-That's all for now
-byeeee!!!
+Find the length of a string  by adding .lenght after the string variable
+eg;
+var firstName = "Jordne";
+var firstNameLength;
+firstNameLength = firstName.length;
+
+Bracket notation is used to get a character at a specific index.
+Starting to count from zero rather than at one is called zero-based indexing.
+eg;
+var firstName= "Jordne"
+var firstLetter = firstName[0];
+
+String values in JS are immutable. You can change the entire string but not the string values.
+
